@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GreatestCommonDivisor", "GreatestCommonDivisor\GreatestCommonDivisor.vcxproj", "{E8D42C4A-425B-4374-8CE5-9C1F3F646ABE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8D42C4A-425B-4374-8CE5-9C1F3F646ABE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E8D42C4A-425B-4374-8CE5-9C1F3F646ABE}.Debug|Win32.Build.0 = Debug|Win32
+		{E8D42C4A-425B-4374-8CE5-9C1F3F646ABE}.Release|Win32.ActiveCfg = Release|Win32
+		{E8D42C4A-425B-4374-8CE5-9C1F3F646ABE}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
